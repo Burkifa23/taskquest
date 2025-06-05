@@ -1,3 +1,15 @@
+Master:
+- [ ] Javascript
+- [ ] Typescript
+- [ ] SQL
+- [ ] Java
+- [ ] C#
+- [ ] Go
+- [ ] Rust
+- [ ] Elixir
+- [ ] Scala
+
+
 # Gamified Task Manager - "TaskQuest"
 *Solo Leveling / SAO inspired productivity system*
 
