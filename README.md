@@ -2,7 +2,7 @@ Master:
 - [ ] Javascript
 - [ ] Typescript
 - [ ] SQL
-- [ ] Java
+- [ ] Java (Spring Framework)
 - [ ] C#
 - [ ] Go
 - [ ] Rust
