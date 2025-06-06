@@ -1,5 +1,5 @@
 Master:
-- [ ] Javascript
+- [ ] Javascript (SvelteKit/Svelte)
 - [ ] Python (FastAPI)
 - [ ] Typescript
 - [ ] SQL
