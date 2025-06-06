@@ -1,5 +1,6 @@
 Master:
 - [ ] Javascript
+- [ ] Python (FastAPI)
 - [ ] Typescript
 - [ ] SQL
 - [ ] Java (Spring Framework)
