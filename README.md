@@ -4,7 +4,7 @@ Master:
 - [ ] Typescript
 - [ ] SQL
 - [ ] Java (Spring Framework)
-- [ ] C#
+- [ ] C# (ASP.NET)
 - [ ] Go
 - [ ] Rust
 - [ ] Elixir
