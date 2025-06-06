@@ -9,7 +9,7 @@ Master:
 - [ ] Rust
 - [ ] Elixir (Phoenix)
 - [ ] Scala
-- [ ] Dart
+- [ ] Dart (Flutter)
 - [ ] PHP (Laravel)
 
 
