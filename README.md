@@ -7,7 +7,7 @@ Master:
 - [ ] C# (ASP.NET)
 - [ ] Go
 - [ ] Rust
-- [ ] Elixir
+- [ ] Elixir (Phoenix)
 - [ ] Scala
 - [ ] Dart
 
