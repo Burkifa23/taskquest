@@ -10,6 +10,7 @@ Master:
 - [ ] Elixir (Phoenix)
 - [ ] Scala
 - [ ] Dart
+- [ ] PHP (Laravel)
 
 
 # Gamified Task Manager - "TaskQuest"
