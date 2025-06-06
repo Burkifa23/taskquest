@@ -8,6 +8,7 @@ Master:
 - [ ] Rust
 - [ ] Elixir
 - [ ] Scala
+- [ ] Dart
 
 
 # Gamified Task Manager - "TaskQuest"
