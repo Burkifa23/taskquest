@@ -1,7 +1,7 @@
 Master:
 - [ ] Javascript (SvelteKit/Svelte)
 - [ ] Python (FastAPI)
-- [ ] Typescript
+- [ ] Typescript (Angular)
 - [ ] SQL
 - [ ] Java (Spring Framework)
 - [ ] C# (ASP.NET)
