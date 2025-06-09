@@ -11,6 +11,7 @@ Master:
 - [ ] Scala
 - [ ] Dart (Flutter)
 - [ ] PHP (Laravel)
+- [ ] Swift
 
 
 # Gamified Task Manager - "TaskQuest"
