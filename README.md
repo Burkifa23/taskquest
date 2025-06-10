@@ -1,6 +1,7 @@
 Master:
 - [ ] Javascript (SvelteKit/Svelte)
 - [ ] Python (FastAPI)
+- [ ] Python (Django)
 - [ ] Typescript (Angular)
 - [ ] SQL (PostgreSQL, MYSQL, SQLSERVER)
 - [ ] Java (Spring Framework)
