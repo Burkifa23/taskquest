@@ -14,6 +14,7 @@ Master:
 - [ ] PHP (Laravel)
 - [ ] Swift
 
+**Be Realistic**
 
 # Gamified Task Manager - "TaskQuest"
 *Solo Leveling / SAO inspired productivity system*
