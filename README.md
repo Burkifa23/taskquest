@@ -2,11 +2,15 @@
 Start!!!!
 
 
-Focus On:
+# Focus On:
 - [ ] Python (FastAPI)
 - [ ] Java (Spring Boot)
 - [ ] Go
-Master:
+
+
+
+
+### Master:
 - [ ] Javascript (SvelteKit/Svelte)
 - [ ] Python (FastAPI)
 - [ ] Python (Django)
